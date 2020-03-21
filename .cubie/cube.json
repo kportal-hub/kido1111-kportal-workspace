@@ -16,7 +16,7 @@
     "result": {
         "javascript": {
             "path": "main.easy",
-            "scenario": "main#easy",
+            "scenario": "main.easy",
             "topic": "1.topic1",
             "lesson": "2.lesson2",
             "time": 0,
@@ -27,13 +27,13 @@
                 "math"
             ],
             "complete": 0,
-            "modified": 1584773148106,
+            "modified": 1584778140434,
             "score": {
-                "status": "passed",
-                "total": 3,
-                "failed": 0,
-                "passed": 3,
-                "point": 3000
+                "status": false,
+                "total": 4,
+                "failed": 2,
+                "passed": 2,
+                "point": 2000
             }
         }
     },
@@ -49,5 +49,5 @@
         "lesson": "2.lesson2",
         "cube": "javascript"
     },
-    "modified": 1584773149043
+    "modified": 1584778141061
 }
